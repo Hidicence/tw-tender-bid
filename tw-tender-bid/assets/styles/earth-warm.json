@@ -1,0 +1,40 @@
+{
+  "id": "earth-warm",
+  "name": "暖土活動",
+  "school": "在地與農業",
+  "mood": "溫暖、有人味、有節慶感;焦糖棕與陶土紅",
+  "best_for": "文化活動、節慶、餐飲、地方特色、市集與藝文展演",
+  "avoid_for": "嚴肅的法規、金融與資安案",
+  "inspiration": "暖色在地品牌的手感",
+  "colors": {
+    "primary": "5C3D2E",
+    "secondary": "8C5A3C",
+    "tertiary": "6B8F71",
+    "accent": "C8553D",
+    "tint": "F6EDE3",
+    "zebra": "FBF6F0",
+    "ink": "2D2118",
+    "gray": "8B7B6E",
+    "line": "E0D3C5",
+    "sub_tint": "E3C9AE",
+    "chart": [
+      "#5C3D2E",
+      "#C8553D",
+      "#6B8F71",
+      "#E3C9AE",
+      "#8C5A3C",
+      "#8B7B6E",
+      "#E0D3C5"
+    ]
+  },
+  "fonts": {
+    "zh_body": "微軟正黑體",
+    "zh_heading": "微軟正黑體",
+    "en": "Calibri"
+  },
+  "banner": "sidebar",
+  "table": "zebra",
+  "cover": "band",
+  "mono": false,
+  "art": "waves"
+}

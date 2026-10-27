@@ -1,0 +1,40 @@
+{
+  "id": "navy-institutional",
+  "name": "深靛藍機構型",
+  "school": "資訊建築派",
+  "mood": "沉穩、可信、資訊清楚;低飽和靛藍,無漸層",
+  "best_for": "學協會、醫療、金融、資訊系統與官網建置案",
+  "avoid_for": "活潑、親民、兒少或節慶活動",
+  "inspiration": "沿用實際標案的靛藍版面;資訊建築派的清晰層級",
+  "colors": {
+    "primary": "1A365D",
+    "secondary": "2C5282",
+    "tertiary": "2C7A7B",
+    "accent": "B7791F",
+    "tint": "EBF4FF",
+    "zebra": "F4F7FA",
+    "ink": "1A202C",
+    "gray": "718096",
+    "line": "CBD5E0",
+    "sub_tint": "A8C5E8",
+    "chart": [
+      "#1A365D",
+      "#2C5282",
+      "#2C7A7B",
+      "#718096",
+      "#B7791F",
+      "#A0AEC0",
+      "#4A5568"
+    ]
+  },
+  "fonts": {
+    "zh_body": "微軟正黑體",
+    "zh_heading": "微軟正黑體",
+    "en": "Calibri"
+  },
+  "banner": "filled",
+  "table": "zebra",
+  "cover": "center",
+  "mono": false,
+  "art": "blocks"
+}

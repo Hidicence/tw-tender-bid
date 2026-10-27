@@ -1,0 +1,40 @@
+{
+  "id": "green-civic",
+  "name": "深綠公共型",
+  "school": "在地與農業",
+  "mood": "踏實、親切、有土地感;深綠為主、橘色點綴",
+  "best_for": "農產行銷、地方政府、環境與永續、社區活動",
+  "avoid_for": "高科技、金融、嚴肅法規類",
+  "inspiration": "沿用實際活動類標案的綠色版面",
+  "colors": {
+    "primary": "1B5E20",
+    "secondary": "33691E",
+    "tertiary": "00695C",
+    "accent": "F57F17",
+    "tint": "E8F5E9",
+    "zebra": "F2F4F7",
+    "ink": "1A1A2E",
+    "gray": "6C757D",
+    "line": "CFD8DC",
+    "sub_tint": "A5D6A7",
+    "chart": [
+      "#1B5E20",
+      "#33691E",
+      "#00695C",
+      "#A5D6A7",
+      "#F57F17",
+      "#B0BEC5",
+      "#6C757D"
+    ]
+  },
+  "fonts": {
+    "zh_body": "微軟正黑體",
+    "zh_heading": "微軟正黑體",
+    "en": "Calibri"
+  },
+  "banner": "filled",
+  "table": "zebra",
+  "cover": "center",
+  "mono": false,
+  "art": "waves"
+}

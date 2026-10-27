@@ -1,0 +1,39 @@
+{
+  "_note": "招標文件的格式規格範本。逐項從須知、評審須知、需求說明書抽取,_sources 記原文出處(檔名、頁或條號),_notes 記你的解讀與待確認事項。沒寫的欄位就刪掉,會用預設值。這份範本的數值是示範,不是預設規格。",
+  "paper": "A4",
+  "orientation": "portrait",
+  "margins_cm": {"top": 2.5, "bottom": 2.5, "left": 3.0, "right": 2.5},
+  "gutter_cm": 0.0,
+  "font": {
+    "zh": "標楷體",
+    "zh_heading": "標楷體",
+    "en": "Times New Roman",
+    "size_pt": 14,
+    "h1_pt": 16,
+    "h2_pt": 16,
+    "h3_pt": 14,
+    "table_pt": 14,
+    "caption_pt": 14
+  },
+  "line_exact_pt": 22,
+  "numbering": ["cn_big", "cn_small", "cn_paren", "arabic", "arabic_paren"],
+  "color_mode": "color",
+  "header": false,
+  "page_numbers": true,
+  "page_limit": 50,
+  "page_limit_exclude_pages": 2,
+  "copies": 10,
+  "duplex": true,
+  "order_follows": ["評審項目一", "評審項目二"],
+  "_sources": {
+    "paper": "【待補:須知檔名與頁碼】",
+    "font": "【待補:例如 需求說明書 第 X 點】",
+    "line_exact_pt": "【待補】",
+    "numbering": "【待補】",
+    "page_limit": "【待補:是否排除封面、目錄、附件,單雙面如何計頁】"
+  },
+  "_notes": [
+    "numbering 可用格式:cn_big(壹、)、cn_small(一、)、cn_paren(（一）)、arabic(1.)、arabic_paren((1))。",
+    "「X 號字」若有字號制疑義,寫明解讀並請使用者確認或向機關釋疑。"
+  ]
+}

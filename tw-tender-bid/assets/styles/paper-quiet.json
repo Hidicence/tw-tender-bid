@@ -1,0 +1,40 @@
+{
+  "id": "paper-quiet",
+  "name": "留白書卷",
+  "school": "東方哲學派",
+  "mood": "安靜、克制、像書;暖灰與朱紅點綴,標題用楷體",
+  "best_for": "文化、藝術、教育、典藏、人文與出版類標案",
+  "avoid_for": "科技感、速度感、需要強烈視覺衝擊的案子",
+  "inspiration": "Kenya Hara 的空、Irma Boom 的書籍建築",
+  "colors": {
+    "primary": "3B3632",
+    "secondary": "6B5E52",
+    "tertiary": "8A6F5A",
+    "accent": "9C4A3C",
+    "tint": "F4EFE8",
+    "zebra": "FAF7F2",
+    "ink": "2B2722",
+    "gray": "8A8178",
+    "line": "D9D0C5",
+    "sub_tint": "D9C9B6",
+    "chart": [
+      "#3B3632",
+      "#9C4A3C",
+      "#8A8178",
+      "#C9B8A3",
+      "#6B5E52",
+      "#B7A58E",
+      "#4F4A44"
+    ]
+  },
+  "fonts": {
+    "zh_body": "微軟正黑體",
+    "zh_heading": "標楷體",
+    "en": "Calibri"
+  },
+  "banner": "plain",
+  "table": "minimal",
+  "cover": "left",
+  "mono": false,
+  "art": "rings"
+}

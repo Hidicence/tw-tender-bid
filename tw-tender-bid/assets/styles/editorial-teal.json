@@ -1,0 +1,40 @@
+{
+  "id": "editorial-teal",
+  "name": "編輯側欄青",
+  "school": "資訊建築派",
+  "mood": "內容優先、層次分明;深青與橘色點綴,章標題用側邊色條",
+  "best_for": "公共衛生、教育、社福、研究與政策倡議類標案",
+  "avoid_for": "奢華、時尚、強調娛樂的案子",
+  "inspiration": "Information Architects 的內容優先;Pentagram 的清晰編排",
+  "colors": {
+    "primary": "0F4C5C",
+    "secondary": "1F6F82",
+    "tertiary": "3A7D44",
+    "accent": "E36414",
+    "tint": "E6F2F5",
+    "zebra": "F6FAFB",
+    "ink": "1B262C",
+    "gray": "6B7C85",
+    "line": "CFDDE2",
+    "sub_tint": "9ECAD6",
+    "chart": [
+      "#0F4C5C",
+      "#1F6F82",
+      "#3A7D44",
+      "#E36414",
+      "#9ECAD6",
+      "#6B7C85",
+      "#CFDDE2"
+    ]
+  },
+  "fonts": {
+    "zh_body": "微軟正黑體",
+    "zh_heading": "微軟正黑體",
+    "en": "Calibri"
+  },
+  "banner": "sidebar",
+  "table": "lines",
+  "cover": "left",
+  "mono": false,
+  "art": "bars"
+}

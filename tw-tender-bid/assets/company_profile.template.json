@@ -1,0 +1,38 @@
+{
+  "_note": "空白公司 profile 模板。複製成你自己的檔案、填寫後,用下列任一方式讓 skill 讀到:(1) 設定環境變數 TW_TENDER_PROFILE 指向它;(2) 存成 ~/.claude/tender-profiles/default.json。未填的欄位會以【待補】出現在文件中,審查時會被抓出來。簽章圖檔只填路徑,不要放進 skill 資料夾。",
+  "name": "【待補:公司全稱】",
+  "name_en": "【待補:英文名稱】",
+  "tax_id": "【待補:統一編號】",
+  "owner": "【待補:負責人】",
+  "address": "【待補:公司地址】",
+  "phone": "【待補:聯絡電話】",
+  "email": "【待補:電子郵件】",
+  "founded": "【待補:成立年份】",
+  "brand_terms": [],
+  "past_case_keywords": [],
+  "seals_and_signature": {
+    "signature_owner": "",
+    "seal_company": "",
+    "seal_owner": ""
+  },
+  "reusable_assets": {
+    "人員配置公版": "",
+    "設備公版": "",
+    "甘特圖公版": "",
+    "經歷範例": "",
+    "合作同意書範本": ""
+  },
+  "pricing_reference": "",
+  "past_bids_index": "",
+  "default_theme": "navy",
+  "known_limits": [
+    "【範例】公司沒有某類實績時,該類標案須靠協力單位,並在建議書清楚標示分工;實績欄只放本公司案例。",
+    "實績、資格證明、人員證照一律以使用者提供為準,沒有證據就標【待補】,不得補寫。"
+  ],
+  "writing_rules": [
+    "正式文件不使用 Emoji;需要圖示時用單色幾何字元或純文字。",
+    "對外文件用繁體中文(台灣用語)。",
+    "技術與法規說法要查官方來源。"
+  ],
+  "companion_skills": {}
+}

@@ -1,0 +1,38 @@
+{
+  "_note": "範例 spec:虛構案件,僅示範格式。實際內容一律來自招標文件與使用者提供的資料。",
+  "doc_kind": "服務建議書",
+  "toc": true,
+  "case": {
+    "title": "範例機關 專案製作案",
+    "short": "範例專案製作案",
+    "client": "範例機關",
+    "subtitle": "案號 EX-000-000",
+    "doc_sub": "投標文件",
+    "cover_date": "中華民國 115 年 11 月",
+    "sign_date": "中　華　民　國　１１５　年　１１　月　　　日",
+    "blind": false,
+    "partner": null
+  },
+  "sections": [
+    {"type": "banner", "text": "壹、專案摘要", "sub": "評審項目一"},
+    {"type": "body", "text": "【待補:用一頁說明對本案的理解、做法、承諾與亮點。】"},
+    {"type": "banner", "text": "貳、執行計畫", "sub": "評審項目二"},
+    {"type": "subh", "text": "專案時程", "num": "2.1"},
+    {"type": "chart", "kind": "gantt", "unit": "週", "caption": "圖 1  專案時程(示意)",
+     "data": [
+       {"task": "需求確認與場勘", "start": 0, "end": 2},
+       {"task": "腳本與分鏡", "start": 1, "end": 4},
+       {"task": "拍攝", "start": 4, "end": 7},
+       {"task": "後製與修改", "start": 6, "end": 11},
+       {"task": "驗收交付", "start": 11, "end": 12}
+     ]},
+    {"type": "banner", "text": "參、經費編列", "sub": "評審項目三"},
+    {"type": "table", "headers": ["項目", "單位", "數量", "單價", "小計"],
+     "rows": [
+       ["一、前期製作", "", "", "", ""],
+       ["腳本與分鏡", "式", "1", "【待補】", "【待補】"],
+       ["小計", "", "", "", "【待補】"]
+     ], "widths": [5.5, 1.8, 1.8, 3.0, 3.4]},
+    {"type": "sign_block", "date": true}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "swiss-grid",
+  "name": "瑞士網格",
+  "school": "極簡主義派",
+  "mood": "理性、利落、對比強;黑白加單一紅色重點,細線與大量留白",
+  "best_for": "設計、文化、展覽、數位與創意類標案;需要俐落專業感時",
+  "avoid_for": "傳統、喜慶、需要溫暖氣氛的活動",
+  "inspiration": "Müller-Brockmann 的網格純粹主義、Experimental Jetset 的概念極簡",
+  "colors": {
+    "primary": "111111",
+    "secondary": "333333",
+    "tertiary": "666666",
+    "accent": "D7263D",
+    "tint": "F2F2F2",
+    "zebra": "FAFAFA",
+    "ink": "111111",
+    "gray": "6B6B6B",
+    "line": "CFCFCF",
+    "sub_tint": "BDBDBD",
+    "chart": [
+      "#111111",
+      "#D7263D",
+      "#6B6B6B",
+      "#BDBDBD",
+      "#333333",
+      "#9E9E9E",
+      "#E5E5E5"
+    ]
+  },
+  "fonts": {
+    "zh_body": "微軟正黑體",
+    "zh_heading": "微軟正黑體",
+    "en": "Arial"
+  },
+  "banner": "rule",
+  "table": "minimal",
+  "cover": "left",
+  "mono": false,
+  "art": "blocks"
+}

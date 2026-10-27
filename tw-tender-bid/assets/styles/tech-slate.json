@@ -1,0 +1,40 @@
+{
+  "id": "tech-slate",
+  "name": "石板科技",
+  "school": "資訊建築派",
+  "mood": "精準、現代、克制;石板灰藍加青色點綴",
+  "best_for": "資訊系統、平台、資安、智慧城市與數位轉型類標案",
+  "avoid_for": "傳統活動、農產、文化藝術類",
+  "inspiration": "Fathom 的科學敘事、現代產品文件的資訊層級",
+  "colors": {
+    "primary": "1E293B",
+    "secondary": "334155",
+    "tertiary": "0E7490",
+    "accent": "0891B2",
+    "tint": "E2E8F0",
+    "zebra": "F8FAFC",
+    "ink": "0F172A",
+    "gray": "64748B",
+    "line": "CBD5E1",
+    "sub_tint": "94A3B8",
+    "chart": [
+      "#1E293B",
+      "#334155",
+      "#0E7490",
+      "#0891B2",
+      "#94A3B8",
+      "#64748B",
+      "#CBD5E1"
+    ]
+  },
+  "fonts": {
+    "zh_body": "微軟正黑體",
+    "zh_heading": "微軟正黑體",
+    "en": "Calibri"
+  },
+  "banner": "filled",
+  "table": "lines",
+  "cover": "band",
+  "mono": false,
+  "art": "dots"
+}

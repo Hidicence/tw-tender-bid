@@ -1,0 +1,40 @@
+{
+  "id": "mono-ink",
+  "name": "黑白墨色",
+  "school": "極簡主義派",
+  "mood": "全灰階,黑白列印也清楚;適用盲評與規定單色列印",
+  "best_for": "招標文件規定黑白列印、盲評案、不得有色彩識別的案子",
+  "avoid_for": "需要色彩氛圍的行銷類案子",
+  "inspiration": "Experimental Jetset 的概念極簡;印刷友善",
+  "colors": {
+    "primary": "222222",
+    "secondary": "444444",
+    "tertiary": "666666",
+    "accent": "000000",
+    "tint": "EEEEEE",
+    "zebra": "F7F7F7",
+    "ink": "111111",
+    "gray": "777777",
+    "line": "BBBBBB",
+    "sub_tint": "CCCCCC",
+    "chart": [
+      "#222222",
+      "#555555",
+      "#888888",
+      "#AAAAAA",
+      "#CCCCCC",
+      "#444444",
+      "#999999"
+    ]
+  },
+  "fonts": {
+    "zh_body": "微軟正黑體",
+    "zh_heading": "微軟正黑體",
+    "en": "Arial"
+  },
+  "banner": "rule",
+  "table": "minimal",
+  "cover": "left",
+  "mono": true,
+  "art": "blocks"
+}
