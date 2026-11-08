@@ -1,0 +1,6 @@
+{
+  "_note": "虛構的示範公司資料,僅供 examples/demo 使用。",
+  "name": "範例股份有限公司", "name_en": "Example Co., Ltd.", "tax_id": "00000000", "owner": "王大明",
+  "address": "範例市範例路 1 號", "phone": "00-0000-0000", "email": "example@example.com", "founded": "2020",
+  "brand_terms": ["範例"], "past_case_keywords": [], "seals_and_signature": {}, "default_theme": "navy-institutional"
+}

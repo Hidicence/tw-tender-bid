@@ -1,0 +1,34 @@
+{
+  "_note": "示範用合併清單(虛構)。路徑相對於本檔。",
+  "base_dir": "",
+  "output_docx": "out/【投標】範例案_合併.docx",
+  "output_pdf": "out/【投標】範例案_合併.pdf",
+  "header_prefix": "範例專案服務案",
+  "footer_text": "",
+  "font_zh": "微軟正黑體",
+  "metadata": {
+    "Title": "【投標】範例專案服務案",
+    "Subject": "投標文件",
+    "Author": ""
+  },
+  "parts": [
+    {
+      "title": "服務建議書",
+      "header": "服務建議書",
+      "docx": "parts/01_服務建議書.docx",
+      "pdf": "parts/01_服務建議書.pdf"
+    },
+    {
+      "title": "規格需求回應表",
+      "header": "規格需求回應表",
+      "docx": "parts/02_規格需求回應表.docx",
+      "pdf": "parts/02_規格需求回應表.pdf"
+    },
+    {
+      "title": "專案總報價單",
+      "header": "專案總報價單",
+      "docx": "parts/03_報價單.docx",
+      "pdf": "parts/03_報價單.pdf"
+    }
+  ]
+}
